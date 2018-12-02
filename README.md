@@ -3,7 +3,7 @@
 
 This project was built for the [Udacity's](https://www.udacity.com) React and Front End Nanodegree Programs. The purpose of the project is to demonstrate understanding of the basic structure and operation of a [React](https://reactjs.org) based app. This bookshelf app allows the user to select and categorize books you have read, are currently reading, or want to read.  
 
-![App Demo](src/images/demo1.png "demo")
+![App Demo](/images/demo1.png "demo")
 
 ## How to Load the App
 
