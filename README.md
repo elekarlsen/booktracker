@@ -1,9 +1,9 @@
 
 ## Project Purpose:
 
-This project was built for the [Udacity's](https://www.udacity.com) React and Front End Nanodegree Programs. The purpose of the project is to demonstrate understanding of the basic structure and operation of a [React](https://reactjs.org) based app. This bookshelf app allows the user to select and categorize books you have read, are currently reading, or want to read. The project comes with an API server and client library that is used to persist information as you interact with the application. Students are expected to add interactivity to the app.
+This project was built for the [Udacity's](https://www.udacity.com) React and Front End Nanodegree Programs. The purpose of the project is to demonstrate understanding of the basic structure and operation of a [React](https://reactjs.org) based app. This bookshelf app allows the user to select and categorize books you have read, are currently reading, or want to read.  
 
-![App Demo](src/images/demo "demo")
+![App Demo](src/images/demo1.png "demo")
 
 ## How to Load the App
 
@@ -22,11 +22,12 @@ A new browser window should automatically open displaying the app.  If it doesn'
 
 ## How to Use the App
 * Books are sorted into three categories: Currently Reading, Want to Read and Read
+![App Demo](src/images/demo2.png "demo")
+![App Demo](src/images/demo3.png "demo")
 * To change a book's category or remove a book from the list, click on the green button on  the book cover
-![Change menu](src/images/control.png "control")
+![Change menu](src/images/menu "menu")
 
 * To add new books, click on the green + button at the bottom of the page.
 Enter an author's name or subject. Up to 20 items will be returned.
+![App Demo](src/images/search.png "search")
 
-
-# booktracker
