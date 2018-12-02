@@ -22,12 +22,12 @@ A new browser window should automatically open displaying the app.  If it doesn'
 
 ## How to Use the App
 * Books are sorted into three categories: Currently Reading, Want to Read and Read
-![App Demo](src/images/demo2.png "demo")
-![App Demo](src/images/demo3.png "demo")
+![App Demo](/images/demo2.png "demo")
+![App Demo](/images/demo3.png "demo")
 * To change a book's category or remove a book from the list, click on the green button on  the book cover
-![Change menu](src/images/menu "menu")
+![Change menu](/images/menu "menu")
 
 * To add new books, click on the green + button at the bottom of the page.
 Enter an author's name or subject. Up to 20 items will be returned.
-![App Demo](src/images/search.png "search")
+![App Demo](/images/search.png "search")
 
